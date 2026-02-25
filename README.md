@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by edpolat, ysaikhuj.*
+*This project has been created as part of the 42 curriculum by edpolat, said-yahya.*
 
 # Push_swap
 
@@ -321,7 +321,7 @@ This project was completed as a group project by:
 - Strategy selection system
 - Benchmark mode integration
 
-### ysaikhuj
+### said-yahya
 - Medium algorithm (chunk-based)
 - Complex algorithm (radix-based)
 - Optimization of rotate / reverse rotate operations
